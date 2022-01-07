@@ -1,7 +1,7 @@
 
 l={100:0,200:0,500:0,2000:0}
 ul={"user1":{"password":1111,"userbal":5000,"c1":0},
-    "user2":{"password":2222,"userbal":5000,"c1":0}}
+    "user2":{"password":2222,"userbal":10000,"c1":0}}
 t=0;c=0
 def admin():
     global t
